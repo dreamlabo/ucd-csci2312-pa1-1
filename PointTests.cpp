@@ -272,3 +272,4 @@ void test_area(ErrorContext &ec, unsigned int numRuns) {
         }
     }
 }
+

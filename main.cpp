@@ -1,3 +1,8 @@
+//Todd Labo
+//CSCI 2321
+//Program Assign #1
+
+
 // main.cpp
 #include <iostream>
 #include <fstream>
